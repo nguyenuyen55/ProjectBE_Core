@@ -1,4 +1,6 @@
-﻿using BENETCore_072025.DataAccess.Reponsitory.Interface;
+﻿using BENETCore_072025.DataAccess.DBContext;
+using BENETCore_072025.DataAccess.Reponsitory.Interface;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,31 +11,39 @@ namespace BENETCore_072025.DataAccess.Reponsitory.Implement
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
+        private readonly DBHotelContext _dbHotelContext;
 
-        public GenericRepository() { }
-        public Task AddAsync(T entity)
+
+        public GenericRepository(DBHotelContext dbHotelContext) {
+        _dbHotelContext = dbHotelContext;
+        }
+        public async Task AddAsync(T entity)
         {
-            throw new NotImplementedException();
+            _dbHotelContext.Set<T>().Add(entity);
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var entity = await GetByIdAsync(id);
+            if (entity != null)
+            {
+                _dbHotelContext.Set<T>().Remove(entity);
+            }
         }
 
-        public Task<IEnumerable<T>> GetAllAsync()
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
-            throw new NotImplementedException();
+           return _dbHotelContext.Set<T>().ToList();
         }
 
-        public Task<T> GetByIdAsync(int id)
+        public async Task<T> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return  _dbHotelContext.Set<T>().Find(id);
         }
 
-        public Task UpdateAsync(T entity)
+        public async Task UpdateAsync(T entity)
         {
-            throw new NotImplementedException();
+            _dbHotelContext.Update(entity);
         }
     }
 }
