@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BENETCore_072025.Bussiness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cef2e7fa83217bb2c1f83df513f9bdf7b25f21ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("BENETCore_072025.Bussiness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BENETCore_072025.Bussiness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="OBJECTENum\" />
+    <Compile Remove="OBJECTENum\**" />
+    <EmbeddedResource Remove="OBJECTENum\**" />
+    <None Remove="OBJECTENum\**" />
   </ItemGroup>
 
   <ItemGroup>
