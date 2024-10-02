@@ -20,7 +20,7 @@ namespace BENETCore_072025.DataAccess.Reponsitory.Implement
         public async Task AddAsync(T entity)
         {
             _dbHotelContext.Set<T>().Add(entity);
-        }
+        } 
 
         public async Task DeleteAsync(int id)
         {

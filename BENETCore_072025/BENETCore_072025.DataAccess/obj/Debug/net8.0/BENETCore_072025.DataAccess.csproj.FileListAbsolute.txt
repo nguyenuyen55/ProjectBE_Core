@@ -1,0 +1,13 @@
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\bin\Debug\net8.0\BENETCore_072025.DataAccess.deps.json
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\bin\Debug\net8.0\BENETCore_072025.DataAccess.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\bin\Debug\net8.0\BENETCore_072025.DataAccess.pdb
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.csproj.AssemblyReference.cache
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.AssemblyInfoInputs.cache
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.AssemblyInfo.cs
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.sourcelink.json
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\refint\BENETCore_072025.DataAccess.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\BENETCore_072025.DataAccess.pdb
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.DataAccess\obj\Debug\net8.0\ref\BENETCore_072025.DataAccess.dll

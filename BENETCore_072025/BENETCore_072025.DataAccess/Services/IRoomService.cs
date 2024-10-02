@@ -1,4 +1,5 @@
 ﻿using BENETCore_072025.DataAccess.DO;
+using BENETCore_072025.DataAccess.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +13,10 @@ namespace BENETCore_072025.DataAccess.Services
         Task<List<Rooms>> GetRoomsAsync();
         Task<Rooms> GetRoomAsync(int roomId);
 
-        Task AddRoom(Rooms room);
-        Task UpdateRoom(int id,Rooms room);
-        Task DeleteRoom(int id);
-        Task<List<Rooms>> GetRoomsAsyncByKeyWord(string keyword);
+        Task<ReturnReponse> AddRoom(RoomDTO room);
+        Task<ReturnReponse> UpdateRoom(int id, RoomDTO roomDTO);
+        Task<ReturnReponse> DeleteRoom(int id);
+        Task<List<Rooms>> GetRoomsAsyncByKeyWord(int keyword);
 
     }
 }

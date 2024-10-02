@@ -29,7 +29,7 @@ namespace BENETCore_072025.DataAccess.UnitOfWork
 
         void IDisposable.Dispose()
         {
-            throw new NotImplementedException();
+            _context.Dispose();
         }
     }
 }

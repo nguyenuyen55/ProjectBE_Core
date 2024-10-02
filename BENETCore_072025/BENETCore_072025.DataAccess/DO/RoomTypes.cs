@@ -11,7 +11,7 @@ namespace BENETCore_072025.DataAccess.DO
     {
         [Key]
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         public Rooms Rooms { get; set; }
     }
