@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BENETCore_072025.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ef36096409ff14c2ff8852fbe3f9db9ad36969b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c33df0e7d787d84b99684850207f6a664d5f53d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BENETCore_072025.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BENETCore_072025.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

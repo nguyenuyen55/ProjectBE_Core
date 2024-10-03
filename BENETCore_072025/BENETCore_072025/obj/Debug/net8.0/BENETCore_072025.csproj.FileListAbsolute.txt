@@ -98,3 +98,5 @@ C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_0720
 C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025\bin\Debug\net8.0\BENETCore_072025.DataAccess.dll
 C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025\bin\Debug\net8.0\BENETCore_072025.DataAccess.pdb
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
