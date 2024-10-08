@@ -2,6 +2,7 @@
 using BENETCore_072025.DataAccess.DTO;
 using BENETCore_072025.DataAccess.Services;
 using BENETCore_072025.DataAccess.UnitOfWork;
+using BENETCore_072025.Filter;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -85,6 +86,7 @@ namespace BENETCore_072025.Controllers
 
         }
         [HttpGet("getAll")]
+        [BeAuthorizeAttribute]
         public async Task<IActionResult> GetAllRoom()
         {
             var reponse = new ReturnReponse();

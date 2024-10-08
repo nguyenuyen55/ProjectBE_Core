@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\bin\Debug\net8.0\BENETCore_072025.Bussiness.deps.json
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\bin\Debug\net8.0\BENETCore_072025.Bussiness.dll
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\bin\Debug\net8.0\BENETCore_072025.Bussiness.pdb
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.sourcelink.json
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.dll
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\refint\BENETCore_072025.Bussiness.dll
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\BENETCore_072025.Bussiness.pdb
+C:\Users\ADMIN\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore_072025.Bussiness\obj\Debug\net8.0\ref\BENETCore_072025.Bussiness.dll

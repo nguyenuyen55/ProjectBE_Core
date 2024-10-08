@@ -49,7 +49,7 @@ namespace BENETCore_072025.DataAccess.Services
             var room = _unitOfWork.Repository<Rooms>().GetByIdAsync(roomId);
             return room;
         }
-
+        
         public async Task<List<Rooms>> GetRoomsAsync()
         {
             var list = new List<Rooms>();
