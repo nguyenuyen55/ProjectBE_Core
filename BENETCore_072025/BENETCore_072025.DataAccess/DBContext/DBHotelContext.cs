@@ -18,6 +18,8 @@ namespace BENETCore_072025.DataAccess.DBContext
         public DbSet<Rooms> rooms { get; set; }
         public DbSet<RoomTypes> roomTypes { get; set; }
         public DbSet<Accounts> accounts { get; set; }
+        public DbSet<Function> function { get; set; }
+        public DbSet<UserPermission> userPermission { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

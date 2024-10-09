@@ -86,7 +86,7 @@ namespace BENETCore_072025.Controllers
 
         }
         [HttpGet("getAll")]
-        [BeAuthorizeAttribute]
+        [BeAuthorizeAttribute("GetAllRoom","VIEW")]
         public async Task<IActionResult> GetAllRoom()
         {
             var reponse = new ReturnReponse();

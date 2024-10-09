@@ -13,5 +13,8 @@ namespace BENETCore_072025.DataAccess.Services
         Task<Accounts> UserLogin(AccountLoginRequestData requestData);
 
         Task<int> AccountUpdateRefeshToken(AccountUpdateRefeshTokenRequestData requestData);
+    
+        Task<Function> GetFunctionByCode(string code);
+        Task<UserPermission> GetPermissionByUserID(int userID, int functionID);
     }
 }

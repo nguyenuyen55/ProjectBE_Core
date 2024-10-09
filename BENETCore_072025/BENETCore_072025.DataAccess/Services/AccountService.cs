@@ -41,6 +41,17 @@ namespace BENETCore_072025.DataAccess.Services
             return 0;
         }
 
+        public async Task<Function> GetFunctionByCode(string code)
+        {
+            return _hotelDbContext.function.ToList().Where(f => f.FunctionCode == code).FirstOrDefault();
+        }
+
+        public async Task<UserPermission> GetPermissionByUserID(int userID, int functionID)
+        {
+            return _hotelDbContext.userPermission.ToList().Where(f => f.UserID == userID&&f.FunctionID==functionID).FirstOrDefault();
+
+        }
+
         public async Task<Accounts> UserLogin(AccountLoginRequestData requestData)
         {
             try

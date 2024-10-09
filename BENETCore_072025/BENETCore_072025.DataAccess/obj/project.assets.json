@@ -580,19 +580,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\uyen.nguyen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\ProjectBE_Core\\BENETCore_072025\\BENETCore_072025.DataAccess\\BENETCore_072025.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\uyen.nguyen\\source\\repos\\ProjectBE_Core\\BENETCore_072025\\BENETCore_072025.DataAccess\\BENETCore_072025.DataAccess.csproj",
       "projectName": "BENETCore_072025.DataAccess",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\ProjectBE_Core\\BENETCore_072025\\BENETCore_072025.DataAccess\\BENETCore_072025.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\ProjectBE_Core\\BENETCore_072025\\BENETCore_072025.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\uyen.nguyen\\source\\repos\\ProjectBE_Core\\BENETCore_072025\\BENETCore_072025.DataAccess\\BENETCore_072025.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\uyen.nguyen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\uyen.nguyen\\source\\repos\\ProjectBE_Core\\BENETCore_072025\\BENETCore_072025.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\uyen.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -600,7 +600,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -613,11 +612,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -645,7 +639,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
