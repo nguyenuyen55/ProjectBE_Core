@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BENETCore0702.Common/1.0.0": {
+        "runtime": {
+          "BENETCore0702.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BENETCore0702.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

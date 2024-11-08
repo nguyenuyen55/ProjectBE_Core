@@ -1,0 +1,12 @@
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\bin\Debug\net8.0\BENETCore0702.Common.deps.json
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\bin\Debug\net8.0\BENETCore0702.Common.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\bin\Debug\net8.0\BENETCore0702.Common.pdb
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.AssemblyInfoInputs.cache
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.AssemblyInfo.cs
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.csproj.CoreCompileInputs.cache
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.sourcelink.json
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\refint\BENETCore0702.Common.dll
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\BENETCore0702.Common.pdb
+C:\Users\uyen.nguyen\source\repos\ProjectBE_Core\BENETCore_072025\BENETCore0702.Common\obj\Debug\net8.0\ref\BENETCore0702.Common.dll
