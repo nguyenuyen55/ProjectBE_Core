@@ -30,8 +30,8 @@ namespace BENETCore_072025.Filter
             if (identity!=null)
             {
                 var userClaims=identity.Claims;
-                var userId = userClaims.FirstOrDefault(x => x.Type == ClaimTypes.PrimarySid)?.Value != null ?
-                    Convert.ToInt32(userClaims.FirstOrDefault(x => x.Type == ClaimTypes.PrimarySid)?.Value) : 0;
+                var userId = Convert.ToInt32(userClaims.FirstOrDefault(x => x.Type == ClaimTypes.NameIdentifier)?.Value);
+              //  var userName = Convert.ToInt32(userClaims.FirstOrDefault(x => x.Type == ClaimTypes.Name)?.Value);
                 if (userId == 0)
                 {
                     context.HttpContext.Response.ContentType = "application/json";
